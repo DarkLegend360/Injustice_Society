@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Injustice_Society/static/css/main.d51635d1.chunk.css",
+    "main.js": "/Injustice_Society/static/js/main.ddda239c.chunk.js",
+    "main.js.map": "/Injustice_Society/static/js/main.ddda239c.chunk.js.map",
+    "runtime-main.js": "/Injustice_Society/static/js/runtime-main.a3031fe9.js",
+    "runtime-main.js.map": "/Injustice_Society/static/js/runtime-main.a3031fe9.js.map",
+    "static/js/2.5a78173e.chunk.js": "/Injustice_Society/static/js/2.5a78173e.chunk.js",
+    "static/js/2.5a78173e.chunk.js.map": "/Injustice_Society/static/js/2.5a78173e.chunk.js.map",
+    "index.html": "/Injustice_Society/index.html",
+    "precache-manifest.54eeebd1274bea8555db6a28e230205f.js": "/Injustice_Society/precache-manifest.54eeebd1274bea8555db6a28e230205f.js",
+    "service-worker.js": "/Injustice_Society/service-worker.js",
+    "static/css/main.d51635d1.chunk.css.map": "/Injustice_Society/static/css/main.d51635d1.chunk.css.map",
+    "static/js/2.5a78173e.chunk.js.LICENSE.txt": "/Injustice_Society/static/js/2.5a78173e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3031fe9.js",
+    "static/js/2.5a78173e.chunk.js",
+    "static/css/main.d51635d1.chunk.css",
+    "static/js/main.ddda239c.chunk.js"
+  ]
+}
